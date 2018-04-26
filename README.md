@@ -18,7 +18,7 @@ To install these files, simply:
 $ git clone https://github.com/ngscheurich/loverboy-mfiles.git ~/.local/share/loverboy
 ```
 
-If you haven't already installed Loverboy, you can do so via [LuaRocks](https://luarocks.org/):
+If you haven’t already installed Loverboy, you can do so via [LuaRocks](https://luarocks.org/):
 
 ```
 $ luarocks install loverboy
