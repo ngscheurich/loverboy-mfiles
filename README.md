@@ -14,13 +14,13 @@ This repository contains files describing the libraries available for use with [
 
 To install these files, simply:
 
-```shell
+```
 $ git clone https://github.com/ngscheurich/loverboy-mfiles.git ~/.local/share/loverboy
 ```
 
 If you haven't already installed Loverboy, you can do so via [LuaRocks](https://luarocks.org/):
 
-```shell
+```
 $ luarocks install loverboy
 ``` 
 
