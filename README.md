@@ -1,6 +1,6 @@
-# 🏹 Loverboy Metafiles
+# 🏹 Löverboy Metafiles
 
-This repository contains files describing the libraries available for use with [Loverboy](https://github.com/ngscheurich/loverboy).
+This repository contains files describing the libraries available for use with [Löverboy](https://github.com/ngscheurich/loverboy).
 
 ## Table of contents
 
@@ -18,7 +18,7 @@ To install these files, simply:
 $ git clone https://github.com/ngscheurich/loverboy-mfiles.git ~/.local/share/loverboy
 ```
 
-If you haven’t already installed Loverboy, you can do so via [LuaRocks](https://luarocks.org/):
+If you haven’t already installed Löverboy, you can do so via [LuaRocks](https://luarocks.org/):
 
 ```
 $ luarocks install loverboy
@@ -31,4 +31,4 @@ Is your favorite library not here? PRs are welcome! Just be sure and adhere to t
 
 ## License
 
-Loverboy Metafiles is released under the [MIT license](https://github.com/ngscheurich/loverboy-mfiles/blob/master/LICENSE).
+Löverboy Metafiles is released under the [MIT license](https://github.com/ngscheurich/loverboy-mfiles/blob/master/LICENSE).
